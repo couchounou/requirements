@@ -116,3 +116,4 @@ xarray
 xmltodict
 yarg
 openpyxl
+copernicusmarine
