@@ -5,6 +5,8 @@
 # sans rebuild l image
 # on copie dans le rep monté
 
+
+
 set -e
 if [ ! -f "/var/meteobe/.initialized" ]; then
   echo "Remplacement des fichiers sources..."
