@@ -8,6 +8,7 @@ avwx-engine
 backcall==0.2.0
 beautifulsoup4
 bleach==6.1.0
+cartopy
 cachetools==5.3.3
 certifi==2024.2.2
 cffi==1.16.0
