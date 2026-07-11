@@ -120,5 +120,6 @@ windrose
 xarray
 xmltodict
 yarg
+yt_dlp
 openpyxl
 copernicusmarine
