@@ -76,7 +76,7 @@ pillow==10.3.0
 pipreqs==0.5.0
 platformdirs==4.2.1
 prefect
-prefect_aws
+s3fs
 prompt-toolkit==3.0.43
 proto-plus==1.23.0
 protobuf==4.25.3
